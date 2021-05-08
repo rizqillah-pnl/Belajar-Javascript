@@ -1,0 +1,2 @@
+var angka = 1;
+
